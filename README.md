@@ -1,0 +1,1 @@
+basic terminal function for executing gauss jordan elimitation to obtain RREF of n x m matrix
